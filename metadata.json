@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Administrasi Pembayaran Ponpes Mamba'ul Hidayah Cipari",
+  "description": "Sistem administrasi pembayaran SPP, uang gedung, dan daftar ulang santri untuk Pondok Pesantren Pembangunan Mamba'ul Hidayah Cipari dengan integrasi Midtrans Snap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,461 @@
+{
+  "santri": [
+    {
+      "id": "S001",
+      "nisn": "0087654321",
+      "nama": "Muhammad Farhan",
+      "kelasId": "K001",
+      "gender": "Laki-laki",
+      "alamat": "Cipari, Cilacap, Jawa Tengah",
+      "namaWali": "Ahmad Sudjak",
+      "noHpWali": "081234567890",
+      "status": "Aktif",
+      "kategoriPembayarId": "CAT001"
+    },
+    {
+      "id": "S002",
+      "nisn": "0087654322",
+      "nama": "Aisyah Putri Rahmah",
+      "kelasId": "K005",
+      "gender": "Perempuan",
+      "alamat": "Sidareja, Cilacap, Jawa Tengah",
+      "namaWali": "Budi Raharjo",
+      "noHpWali": "085712345678",
+      "status": "Aktif",
+      "kategoriPembayarId": "CAT002"
+    },
+    {
+      "id": "S003",
+      "nisn": "0087654323",
+      "nama": "Ahmad Zaki Mubarok",
+      "kelasId": "K007",
+      "gender": "Laki-laki",
+      "alamat": "Wanareja, Cilacap, Jawa Tengah",
+      "namaWali": "H. Mubarok",
+      "noHpWali": "082198765432",
+      "status": "Aktif",
+      "kategoriPembayarId": "CAT003"
+    },
+    {
+      "id": "S004",
+      "nisn": "0087654324",
+      "nama": "Fatimah Azzahra",
+      "kelasId": "K003",
+      "gender": "Perempuan",
+      "alamat": "Karangpucung, Cilacap, Jawa Tengah",
+      "namaWali": "Muhyiddin",
+      "noHpWali": "081344556677",
+      "status": "Aktif",
+      "kategoriPembayarId": "CAT001"
+    },
+    {
+      "id": "S005",
+      "nisn": "0087654325",
+      "nama": "Umar Faruq",
+      "kelasId": "K004",
+      "gender": "Laki-laki",
+      "alamat": "Majenang, Cilacap, Jawa Tengah",
+      "namaWali": "Kamil",
+      "noHpWali": "089988776655",
+      "status": "Aktif",
+      "kategoriPembayarId": "CAT001"
+    },
+    {
+      "id": "S006",
+      "nisn": "0087654326",
+      "nama": "Habibie Gibran",
+      "kelasId": "K001",
+      "gender": "Laki-laki",
+      "alamat": "Cipari, Cilacap",
+      "namaWali": "Yusuf",
+      "noHpWali": "085211223344",
+      "status": "Aktif",
+      "kategoriPembayarId": "CAT001"
+    },
+    {
+      "id": "S007",
+      "nisn": "0087654327",
+      "nama": "Naila Azzahra",
+      "kelasId": "K002",
+      "gender": "Perempuan",
+      "alamat": "Cipari, Cilacap",
+      "namaWali": "Supriyanto",
+      "noHpWali": "081299001122",
+      "status": "Aktif",
+      "kategoriPembayarId": "CAT001"
+    },
+    {
+      "id": "S008",
+      "nisn": "0087654328",
+      "nama": "Rifqi Al-Fatih",
+      "kelasId": "K003",
+      "gender": "Laki-laki",
+      "alamat": "Gandrungmangu, Cilacap",
+      "namaWali": "Herman",
+      "noHpWali": "082334455667",
+      "status": "Aktif"
+    },
+    {
+      "id": "S009",
+      "nisn": "0087654329",
+      "nama": "Salma Salsabila",
+      "kelasId": "K008",
+      "gender": "Perempuan",
+      "alamat": "Kawunganten, Cilacap",
+      "namaWali": "Wahyu",
+      "noHpWali": "085733221100",
+      "status": "Aktif"
+    },
+    {
+      "id": "S010",
+      "nisn": "0087654330",
+      "nama": "Yusuf Al-Amin",
+      "kelasId": "K009",
+      "gender": "Laki-laki",
+      "alamat": "Jeruklegi, Cilacap",
+      "namaWali": "Sudono",
+      "noHpWali": "081390807060",
+      "status": "Aktif"
+    }
+  ],
+  "kelas": [
+    {
+      "id": "K001",
+      "nama": "VII A",
+      "waliKelas": "Ustadz Mansur, S.Pd.I",
+      "kapasitas": 30
+    },
+    {
+      "id": "K002",
+      "nama": "VII B",
+      "waliKelas": "Ustadzah Halimah",
+      "kapasitas": 28
+    },
+    {
+      "id": "K003",
+      "nama": "VII C",
+      "waliKelas": "Ustadz Syarif, S.Ag",
+      "kapasitas": 30
+    },
+    {
+      "id": "K004",
+      "nama": "VIII A",
+      "waliKelas": "Ustadz Nuruddin",
+      "kapasitas": 32
+    },
+    {
+      "id": "K005",
+      "nama": "VIII B",
+      "waliKelas": "Ustadzah Aminah",
+      "kapasitas": 30
+    },
+    {
+      "id": "K006",
+      "nama": "VIII C",
+      "waliKelas": "Ustadz Fauzi",
+      "kapasitas": 28
+    },
+    {
+      "id": "K007",
+      "nama": "IX A",
+      "waliKelas": "Ustadz Khoirul Anam",
+      "kapasitas": 30
+    },
+    {
+      "id": "K008",
+      "nama": "IX B",
+      "waliKelas": "Ustadzah Fatmawati",
+      "kapasitas": 30
+    },
+    {
+      "id": "K009",
+      "nama": "IX C",
+      "waliKelas": "Ustadz Ja'far",
+      "kapasitas": 32
+    },
+    {
+      "id": "K010",
+      "nama": "X A",
+      "waliKelas": "Ustadz Luqman",
+      "kapasitas": 25
+    },
+    {
+      "id": "K011",
+      "nama": "XI A",
+      "waliKelas": "Ustadz Ridwan",
+      "kapasitas": 25
+    }
+  ],
+  "transaksi": [
+    {
+      "id": "T001",
+      "invoiceNo": "INV-2025-0523-01",
+      "santriId": "S001",
+      "jenisPembayaran": "SPP Bulan Mei 2025",
+      "tanggal": "23 Mei 2025",
+      "nominal": 500000,
+      "metode": "Cash",
+      "status": "Lunas",
+      "catatan": "Diterima oleh Bendahara Kantor"
+    },
+    {
+      "id": "T002",
+      "invoiceNo": "INV-2025-0523-02",
+      "santriId": "S002",
+      "jenisPembayaran": "SPP Bulan Mei 2025",
+      "tanggal": "23 Mei 2025",
+      "nominal": 500000,
+      "metode": "Midtrans (VA BCA)",
+      "status": "Lunas",
+      "catatan": "Sistem Midtrans Snap"
+    },
+    {
+      "id": "T003",
+      "invoiceNo": "INV-2025-0523-03",
+      "santriId": "S003",
+      "jenisPembayaran": "Uang Gedung (Cicilan 2)",
+      "tanggal": "23 Mei 2025",
+      "nominal": 1000000,
+      "metode": "Midtrans (VA Mandiri)",
+      "status": "Pending",
+      "catatan": "Menunggu pembayaran via Bank Mandiri VA"
+    },
+    {
+      "id": "T004",
+      "invoiceNo": "INV-2025-0523-04",
+      "santriId": "S004",
+      "jenisPembayaran": "Daftar Ulang 2025/2026",
+      "tanggal": "23 Mei 2025",
+      "nominal": 750000,
+      "metode": "Midtrans (GoPay)",
+      "status": "Lunas"
+    },
+    {
+      "id": "T005",
+      "invoiceNo": "INV-2025-0523-05",
+      "santriId": "S005",
+      "jenisPembayaran": "SPP Bulan Mei 2025",
+      "tanggal": "23 Mei 2025",
+      "nominal": 500000,
+      "metode": "Midtrans (ShopeePay)",
+      "status": "Gagal",
+      "catatan": "Expired checkout session"
+    },
+    {
+      "id": "T006",
+      "invoiceNo": "INV-2025-0522-01",
+      "santriId": "S006",
+      "jenisPembayaran": "SPP Bulan Mei 2025",
+      "tanggal": "22 Mei 2025",
+      "nominal": 500000,
+      "metode": "Cash",
+      "status": "Lunas"
+    },
+    {
+      "id": "T007",
+      "invoiceNo": "INV-2025-0522-02",
+      "santriId": "S007",
+      "jenisPembayaran": "SPP Bulan Mei 2025",
+      "tanggal": "22 Mei 2025",
+      "nominal": 500000,
+      "metode": "Transfer Bank Manual",
+      "status": "Lunas",
+      "catatan": "Sudah verifikasi mutasi rekening"
+    },
+    {
+      "id": "T008",
+      "invoiceNo": "INV-2025-0521-01",
+      "santriId": "S008",
+      "jenisPembayaran": "Daftar Ulang 2025/2026",
+      "tanggal": "21 Mei 2025",
+      "nominal": 750000,
+      "metode": "Cash",
+      "status": "Lunas"
+    }
+  ],
+  "tunggakan": [
+    {
+      "id": "TG001",
+      "santriId": "S003",
+      "jenisTunggakan": "SPP Bulan Juni 2025",
+      "jatuhTempo": "10 Jun 2025",
+      "nominal": 500000
+    },
+    {
+      "id": "TG002",
+      "santriId": "S005",
+      "jenisTunggakan": "SPP Bulan Mei 2025",
+      "jatuhTempo": "10 Mei 2025",
+      "nominal": 500000
+    },
+    {
+      "id": "TG003",
+      "santriId": "S005",
+      "jenisTunggakan": "SPP Bulan Juni 2025",
+      "jatuhTempo": "10 Jun 2025",
+      "nominal": 500000
+    },
+    {
+      "id": "TG004",
+      "santriId": "S008",
+      "jenisTunggakan": "SPP Bulan Juni 2025",
+      "jatuhTempo": "10 Jun 2025",
+      "nominal": 500000
+    },
+    {
+      "id": "TG005",
+      "santriId": "S009",
+      "jenisTunggakan": "Uang Buku Semester Ganjil",
+      "jatuhTempo": "15 Jul 2025",
+      "nominal": 350000
+    },
+    {
+      "id": "TG006",
+      "santriId": "S010",
+      "jenisTunggakan": "SPP Bulan Juni 2025",
+      "jatuhTempo": "10 Jun 2025",
+      "nominal": 500000
+    }
+  ],
+  "kategori": [
+    {
+      "id": "CAT001",
+      "nama": "Reguler",
+      "nominalSpp": 500000,
+      "nominalDaftarUlang": 750000,
+      "keterangan": "Kategori siswa reguler umum"
+    },
+    {
+      "id": "CAT002",
+      "nama": "Beasiswa Yatim",
+      "nominalSpp": 0,
+      "nominalDaftarUlang": 0,
+      "keterangan": "Bebas biaya SPP & Daftar Ulang"
+    },
+    {
+      "id": "CAT003",
+      "nama": "Beasiswa Pengurus",
+      "nominalSpp": 150000,
+      "nominalDaftarUlang": 250000,
+      "keterangan": "Keringanan khusus anak pengurus"
+    }
+  ],
+  "settings": {
+    "namaPesantren": "Pondok Pesantren Pembangunan Mamba'ul Hidayah Cipari",
+    "alamatPesantren": "Jl. Raya Cipari - Sidareja No. 12, Cipari, Cilacap, Jawa Tengah 53262",
+    "emailPesantren": "info@ponpesmambada.sch.id",
+    "teleponPesantren": "0812-3456-7890",
+    "nominalSpp": 500000,
+    "nominalDaftarUlang": 750000,
+    "midtransClientKey": "",
+    "midtransSandboxMode": false,
+    "logoType": "text",
+    "logoText": "MH",
+    "logoUrl": ""
+  },
+  "pengguna": [
+    {
+      "id": "U001",
+      "nama": "Admin Ponpes",
+      "email": "mambaulhidayah793@gmail.com",
+      "role": "Super Admin",
+      "status": "Aktif",
+      "password": "Mambaulhidayah01@"
+    },
+    {
+      "id": "U002",
+      "nama": "Ustadzah Aminah (Bendahara)",
+      "email": "aminah.bendahara@gmail.com",
+      "role": "Bendahara",
+      "status": "Aktif",
+      "password": "bendahara123"
+    },
+    {
+      "id": "U004",
+      "nama": "KH. Mokh. Syarif Hidayatullah (Pengasuh)",
+      "email": "pengasuh@ponpesmambada.sch.id",
+      "role": "Pengasuh Pesantren",
+      "status": "Aktif",
+      "password": "pengasuh123"
+    },
+    {
+      "id": "U005",
+      "nama": "Muhammad Farhan (Santri)",
+      "email": "0087654321",
+      "role": "Santri",
+      "status": "Aktif",
+      "password": "santri123",
+      "santriId": "S001"
+    },
+    {
+      "id": "U006",
+      "nama": "Aisyah Putri Rahmah (Santri)",
+      "email": "0087654322",
+      "role": "Santri",
+      "status": "Aktif",
+      "password": "santri123",
+      "santriId": "S002"
+    },
+    {
+      "id": "U007",
+      "nama": "Ahmad Zaki Mubarok (Santri)",
+      "email": "0087654323",
+      "role": "Santri",
+      "status": "Aktif",
+      "password": "santri123",
+      "santriId": "S003"
+    }
+  ],
+  "paymentTypes": [
+    {
+      "id": "PT001",
+      "nama": "Syahriyah",
+      "nominalDefault": 30000
+    },
+    {
+      "id": "PT002",
+      "nama": "Madin",
+      "nominalDefault": 30000
+    },
+    {
+      "id": "PT003",
+      "nama": "Kos makan",
+      "nominalDefault": 240000
+    },
+    {
+      "id": "PT004",
+      "nama": "Infaq",
+      "nominalDefault": 200000
+    },
+    {
+      "id": "PT005",
+      "nama": "SPP Bulan Mei 2025",
+      "nominalDefault": 500000
+    },
+    {
+      "id": "PT006",
+      "nama": "SPP Bulan Juni 2025",
+      "nominalDefault": 500000
+    },
+    {
+      "id": "PT007",
+      "nama": "SPP Bulan Juli 2025",
+      "nominalDefault": 500000
+    },
+    {
+      "id": "PT008",
+      "nama": "Daftar Ulang 2025/2026",
+      "nominalDefault": 750000
+    },
+    {
+      "id": "PT009",
+      "nama": "Uang Gedung (Cicilan 2)",
+      "nominalDefault": 1000000
+    },
+    {
+      "id": "PT010",
+      "nama": "Pembayaran lainnya",
+      "nominalDefault": 50000
+    }
+  ]
+}
