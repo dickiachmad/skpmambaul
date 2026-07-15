@@ -224,6 +224,20 @@ const serverKey = rawServerKey
     });
   });
 
+app.get("/api/routes", (req, res) => {
+  const routes: string[] = [];
+
+  (app as any)._router.stack.forEach((r: any) => {
+    if (r.route && r.route.path) {
+      routes.push(
+        `${Object.keys(r.route.methods).join(",").toUpperCase()} ${r.route.path}`
+      );
+    }
+  });
+
+  res.json(routes);
+});
+
   // =========================
   // 404 API
   // =========================
